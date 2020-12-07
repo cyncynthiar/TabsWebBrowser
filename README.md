@@ -17,9 +17,9 @@ and save open tabs in cognito mode
 then can save in 
 
 Challanges:
-	#make list of hastags or catigories from user and from previous times
-  get properties from google chrome or appscript
-  sorting and usual text challanges (misspellings and alternate spelling and difference tense of words like plural or past tense or upper/lowercase
-  user adding/editing catigories will be challanging for average user unfamilair with code without GUI
+	#make list of hastags or catigories from user and from previous times,
+  get properties from google chrome or appscript,
+  sorting and usual text challanges (misspellings and alternate spelling and difference tense of words like plural or past tense or upper/lowercase,
+  user adding/editing catigories will be challanging for average user unfamilair with code without GUI,
   
   later: add more devices 
