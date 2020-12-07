@@ -78,16 +78,25 @@ def num_windows_open():
 	'''
 	return 4
 
-def sort_by(df):
+def sort_by(df): #add parameters
 	"""
 	will sort the dataframe by catoigory
 	if want can work in time and sort by time
 	"""
 	pass
 
+def save_to_excell(df, sort=False): #other sort parameters
+	"""
+	save to df to excell
+	save list of catigories or hastages
+	"""
+
+	pass
+
 
 
 def main():
+	#make list of hastags or catigories from user and from previous times
 
 	print("limited to only viewing 4 windows open")
 	print("Will raise exception EventError if you have less than 4 windows open ")
