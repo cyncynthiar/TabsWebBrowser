@@ -10,6 +10,7 @@ uses maps, pandas, appscript
 future functionality:
 can do more than Google Chrome
 can sort catorigores: date subject
+Close webpages of a catigory (close all email webpages open) (close all website tabs relating to shopping)
 
 Purpose: to keep track of all tabs/webapages without keeping the internet browers open
 Gives alot more abilities than looking through history on internet brower, which if they crash will not keep track of open tabs
