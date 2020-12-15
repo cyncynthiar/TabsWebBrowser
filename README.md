@@ -25,5 +25,5 @@ Challanges:
   
   later: add more devices 
 
-    NEW:  
-There is an existing product https://raindrop.io/ that does this, but it doesn't me we cannot have fun playing around with this program :)
+
+    NEW: There is an existing product https://raindrop.io/ that does this, but it doesn't me we cannot have fun playing around with this program :)
